@@ -1,0 +1,8 @@
+C:\Users\young hufner\Desktop\VS Projects\Console Guys\Console Guys\obj\Debug\Console Guys.csproj.AssemblyReference.cache
+C:\Users\young hufner\Desktop\VS Projects\Console Guys\Console Guys\obj\Debug\Console Guys.csproj.SuggestedBindingRedirects.cache
+C:\Users\young hufner\Desktop\VS Projects\Console Guys\Console Guys\obj\Debug\Console Guys.csproj.CoreCompileInputs.cache
+C:\Users\young hufner\Desktop\VS Projects\Console Guys\Console Guys\bin\Debug\Console Guys.exe.config
+C:\Users\young hufner\Desktop\VS Projects\Console Guys\Console Guys\bin\Debug\Console Guys.exe
+C:\Users\young hufner\Desktop\VS Projects\Console Guys\Console Guys\bin\Debug\Console Guys.pdb
+C:\Users\young hufner\Desktop\VS Projects\Console Guys\Console Guys\obj\Debug\Console Guys.exe
+C:\Users\young hufner\Desktop\VS Projects\Console Guys\Console Guys\obj\Debug\Console Guys.pdb
